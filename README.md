@@ -10,6 +10,7 @@ This code provides basic tools for predicting glottal excitation waveforms (or s
 - sklearn (data normalization)
 - scipy (reading NetCDF files)
 - matplotlib
+- h5py
 
 ## Data 
 
